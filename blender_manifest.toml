@@ -7,7 +7,7 @@ tagline = "List All Frame Nodes And Focus Easily"
 maintainer = "OuChiang"
 
 type = "add-on"
-website = "https://github.com/OuChiang/framefocus"
+website = "https://github.com/OuChiang/framefocus/issues"
 tags = ["Node"]
 
 blender_version_min = "4.2.0"

@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "frame_focus"
+version = "2.0.1"
+name = "Frame Focus"
+tagline = "List All Frame Nodes And Focus Easily"
+maintainer = "OuChiang"
+
+type = "add-on"
+website = "https://github.com/OuChiang/framefocus"
+tags = ["Node"]
+
+blender_version_min = "4.2.0"
+license = ['SPDX:GPL-3.0-or-later']
+
